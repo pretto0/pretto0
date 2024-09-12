@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🌱 I'm currently learning Golang, focusing on practical projects under some microservice frameworks and classic course projects.
+- 👯 I’m currently involved in designing the OpenOCR project, an open-source OCR algorithm implementation framework.
+- 🤔 I'm currently pursuing a master's degree in computer science at Fudan University.
+- 😄 I'm also a fan of martial arts fiction.
+
+
 ### 📊 **GitHub Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pretto0&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" />
