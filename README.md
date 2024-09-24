@@ -7,6 +7,12 @@
 - 😄 I'm also a fan of martial arts fiction.
 
 
+</br>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/pretto0/count.svg)th visitor
+
+</br>
+
 ### 📊 **GitHub Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pretto0&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" />
