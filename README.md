@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I'm currently learning Golang, focusing on practical projects under some microservice frameworks and classic course projects.
+- 🌱 I'm currently learning Golang and java, focusing on practical projects under some microservice frameworks and classic course projects.
 - 😄 I'm currently participating in the development of the [DanXi](https://github.com/DanXi-Dev/DanXi) app at Fudan University as a backend developer.
 - 👯 I’m currently involved in designing [OpenOCR](https://github.com/Topdu/OpenOCR), an open-source OCR algorithm implementation framework.
 - 🤔 I'm currently pursuing a master's degree in computer science at Fudan University.
